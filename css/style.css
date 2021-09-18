@@ -244,6 +244,12 @@ main section div iframe{
   justify-content: space-around;
 }
 
+/* sublimados */
+
+main div .gorras{
+  border-radius: 8px;
+}
+
 
 
 footer {
